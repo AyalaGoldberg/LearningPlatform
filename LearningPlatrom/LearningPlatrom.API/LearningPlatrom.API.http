@@ -1,0 +1,6 @@
+@LearningPlatrom.API_HostAddress = http://localhost:5028
+
+GET {{LearningPlatrom.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

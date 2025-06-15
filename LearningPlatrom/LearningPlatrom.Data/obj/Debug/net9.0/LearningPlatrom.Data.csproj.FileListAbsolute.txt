@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\APIprojects\APISOUL_Project\LearningPlatrom\LearningPlatrom.Data\bin\Debug\net9.0\LearningPlatrom.Data.deps.json
+C:\Users\User\Desktop\APIprojects\APISOUL_Project\LearningPlatrom\LearningPlatrom.Data\bin\Debug\net9.0\LearningPlatrom.Data.runtimeconfig.json
+C:\Users\User\Desktop\APIprojects\APISOUL_Project\LearningPlatrom\LearningPlatrom.Data\bin\Debug\net9.0\LearningPlatrom.Data.dll
+C:\Users\User\Desktop\APIprojects\APISOUL_Project\LearningPlatrom\LearningPlatrom.Data\bin\Debug\net9.0\LearningPlatrom.Data.pdb
+C:\Users\User\Desktop\APIprojects\APISOUL_Project\LearningPlatrom\LearningPlatrom.Data\obj\Debug\net9.0\LearningPlatrom.Data.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\APIprojects\APISOUL_Project\LearningPlatrom\LearningPlatrom.Data\obj\Debug\net9.0\LearningPlatrom.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\APIprojects\APISOUL_Project\LearningPlatrom\LearningPlatrom.Data\obj\Debug\net9.0\LearningPlatrom.Data.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\APIprojects\APISOUL_Project\LearningPlatrom\LearningPlatrom.Data\obj\Debug\net9.0\LearningPlatrom.Data.AssemblyInfo.cs
+C:\Users\User\Desktop\APIprojects\APISOUL_Project\LearningPlatrom\LearningPlatrom.Data\obj\Debug\net9.0\LearningPlatrom.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\APIprojects\APISOUL_Project\LearningPlatrom\LearningPlatrom.Data\obj\Debug\net9.0\LearningPlatrom.Data.dll
+C:\Users\User\Desktop\APIprojects\APISOUL_Project\LearningPlatrom\LearningPlatrom.Data\obj\Debug\net9.0\refint\LearningPlatrom.Data.dll
+C:\Users\User\Desktop\APIprojects\APISOUL_Project\LearningPlatrom\LearningPlatrom.Data\obj\Debug\net9.0\LearningPlatrom.Data.pdb
+C:\Users\User\Desktop\APIprojects\APISOUL_Project\LearningPlatrom\LearningPlatrom.Data\obj\Debug\net9.0\LearningPlatrom.Data.genruntimeconfig.cache
+C:\Users\User\Desktop\APIprojects\APISOUL_Project\LearningPlatrom\LearningPlatrom.Data\obj\Debug\net9.0\ref\LearningPlatrom.Data.dll

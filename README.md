@@ -1,9 +1,5 @@
 # LearningPlatform
 learning Platform is a modern learning platform with an ASP.NET Core backend, GPT-powered AI lesson generation, and a React dashboard. Users select categories, submit prompts, and receive AI-generated content, with features like prompt history and admin management for an enhanced learning experience.
-# Learning Platform
-
-A modern, full-stack learning platform powered by ASP.NET Core (backend), React (frontend), and OpenAI GPT integration.
-
 ---
 
 ## 🚀 Setup Instructions
@@ -64,8 +60,8 @@ A modern, full-stack learning platform powered by ASP.NET Core (backend), React 
 - **Backend:** ASP.NET Core, Entity Framework Core, C#
 - **Frontend:** React, Material-UI, JavaScript
 - **AI Integration:** OpenAI GPT API
-- **Database:** SQL Server (local or Docker)
-- **Other:** dotenv for configuration, Docker (optional)
+- **Database:** SQL Server
+- **Other:** dotenv for configuration
 
 ---
 
@@ -153,4 +149,4 @@ For questions or support, open an issue or contact the maintainer.
 
 ---
 
-**Learning Platform** – Empowering education with
+**Learning Platform** – Empowering education with AI.
